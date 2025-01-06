@@ -68,7 +68,7 @@
     "react-redux": "^7.2.6",
     "react-router-dom": "^5.3.0",
     "redux": "^4.0.5",
-    "sass": "^1.22.10",
+    "sass": "^1.79.0",
     "sass-loader": "8.0.0",
     "simplebar-react": "^2.3.6",
     "soroban-client": "^0.5.0",
